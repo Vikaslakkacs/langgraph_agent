@@ -17,3 +17,4 @@ fastapi
 uvicorn
 psycopg2-binary
 langfuse
+langgraph
